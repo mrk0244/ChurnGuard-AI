@@ -1,0 +1,5 @@
+{
+  "name": "ChurnGuard AI",
+  "description": "An intelligent customer churn prediction system powered by Gemini. Simulates Random Forest and Decision Tree logic to identify at-risk telecom customers and suggest retention strategies.",
+  "requestFramePermissions": []
+}
